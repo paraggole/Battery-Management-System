@@ -1,4 +1,4 @@
-A custom-built Battery Management System designed to monitor, balance, and protect lithium-ion battery cells in embedded applications.
+
 ## BQ7692000 and BQ78350-R1
 
 Features

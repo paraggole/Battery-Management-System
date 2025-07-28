@@ -11,7 +11,7 @@ Features
   
 <img width="662" height="497" alt="Screenshot 2025-07-15 210111" src="https://github.com/user-attachments/assets/6d05ae20-da39-4e15-940d-01c5d23675eb" />
 
-Custom 4-layer PCB (72mm × 60mm)
+FR4 4-layer PCB (72mm × 60mm)
 - High-current handling: **80A continuous**, **150A surge**
 - Based on **BQ7692000PW** (AFE) and **BQ78350DBTR** (Fuel Gauge) from Texas Instruments
 - Integrated protections: overvoltage, undervoltage, overcurrent, short-circuit, thermal
